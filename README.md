@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Armin Ebrahimi!
+I'm a Master's student in Computer Science, learning Data Science and Machine Learning. I enjoy working with real-world data and creating visual, understandable insights.
 
-<!--
-**arebrahimif/arebrahimif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧰 Tools I Use
+- Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
+- Tableau
+- Git & GitHub
+- Jupyter Notebooks
 
-Here are some ideas to get you started:
+## 📁 My Portfolio Projects (The following topics are the topics I am gonna work on during the summer 2025)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 [Diabetes Patients Dashboard](https://github.com/arebrahimif/Diabetes-analysis)  
+
+🔹 [Heart Disease Prediction](https://github.com/arebrahimif/Heart-Disease-Prediction)  
+
+🔹 [Animation Industry](https://github.com/arebrahimif/Animation-analysis)  
+
+## 📫 Connect With Me
+- LinkedIn: [your-link](https://www.linkedin.com/in/ar-ebrahimi-cs)
+- Email: armin.ebrahimi.cs@gmail.com
